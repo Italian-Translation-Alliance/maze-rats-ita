@@ -1,4 +1,4 @@
-# Maze Rats - Versione
+# Maze Rats - Versione Italiana
 
 *Maze Rats* è un gioco di avventura fantasy (noto anche come gioco di ruolo, o GdR) di esplorazione, risoluzione di problemi e sopravvivenza. 
 
