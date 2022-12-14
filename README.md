@@ -5,3 +5,7 @@
 CC-BY-4.0 di [Ben Milton](http://questingblog.com/)
 
 Traduzione di [Lorenzo Rossi](https://oicn.icu/)
+
+## Scarica il PDF da itch.io
+
+<iframe frameborder="0" src="https://itch.io/embed/1834853" width="552" height="167"><a href="https://ita-translation-alliance.itch.io/maze-rats">Maze Rats by Italian Translation Alliance</a></iframe>

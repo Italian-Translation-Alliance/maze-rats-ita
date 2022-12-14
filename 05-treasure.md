@@ -6,45 +6,45 @@ i prezzi effettivi.
 
 --------------------------------------------------------------------------------------
 
-**Armi leggere**: a 1 mano **(20 o)**
+**Armi leggere**: a 1 mano **(20g)**
 
-**Armi pesanti**: +1 danno, a 2 mani **(40 o)**
+**Armi pesanti**: +1 danno, a 2 mani **(40g)**
 
-**Armi a distanza**: 2 mani **(20-40 o)**
+**Armi a distanza**: 2 mani **(20-40g)**
 
 --------------------------------------------------------------------------------------
 
-**Scudo**: a 1 mano, +1 armatura **(10 o)**
+**Scudo**: a 1 mano, +1 armatura **(10g)**
 
-**Armatura leggera**: +1 armatura **(100 o)**
+**Armatura leggera**: +1 armatura **(100g)**
 
 **Armatura pesante**: +2 armatura, nessun vantaggio ai tiri pericolo su DES o ai tiri 
-per gli attacchi a sorpresa **(400 o)**
+per gli attacchi a sorpresa **(400g)**
 
 --------------------------------------------------------------------------------------
 
-**Oggetti comuni**: corde, candele, eccetera... **(1-5 o)**
+**Oggetti comuni**: corde, candele, eccetera... **(1-5g)**
 
-**Oggetti specializzati**: tagliole, chiavi, eccetera... **(5-20 o)**
+**Oggetti specializzati**: tagliole, chiavi, eccetera... **(5-20g)**
 
-**Oggetti di lusso**: Libri, specchi, pozioni, eccetera... **(20-200 o)**
-
---------------------------------------------------------------------------------------
-
-**Animali**: Mulo **(20 o)**, Cavallo **(100 o)**, Cane **(5 o)**, Segugio **(100 o)**,
-Pollo **(5 o)**, Falcone addestrato **(1.000 o)**.
-
-**Trasporto**: Carretto **(30 o)**, Carro **(100 o)**, Carrozza **(250 o)**, Barca a remi
-**(50 o)**, Barca da pesca **(500 o)**, Caravella **(5000 o)**, Nave da Guerra **(10.000 o)**.
-
-**Proprietà**: Casa Piccola **(1.000 o)**, Taverna **(2.000 o)**, Corporazione **(5.000 o)**,
-Magione **(10.000 o)**, Avamposto Fortificato **(25.000 o)**, Tenuta **(50.000 o)**,
-Castello **(200.000 o)**.
+**Oggetti di lusso**: Libri, specchi, pozioni, eccetera... **(20-200g)**
 
 --------------------------------------------------------------------------------------
 
-**Mercenari (tutti i prezzi sono per giorno)**: Servitore **(1-5 o)**, Tedoforo **(5-10 o)**,
-Guida **(10-20 o)**, Soldato **(20-50 o)**, Specialista **(50-100 o)**, Mago **(100-200 o)**.
+**Animali**: Mulo **(20g)**, Cavallo **(100g)**, Cane **(5g)**, Segugio **(100g)**,
+Pollo **(5g)**, Falcone addestrato **(1.000g)**.
+
+**Trasporto**: Carretto **(30g)**, Carro **(100g)**, Carrozza **(250g)**, Barca a remi
+**(50g)**, Barca da pesca **(500g)**, Caravella **(5000g)**, Nave da Guerra **(10.000g)**.
+
+**Proprietà**: Casa Piccola **(1.000g)**, Taverna **(2.000g)**, Corporazione **(5.000g)**,
+Magione **(10.000g)**, Avamposto Fortificato **(25.000g)**, Tenuta **(50.000g)**,
+Castello **(200.000g)**.
+
+--------------------------------------------------------------------------------------
+
+**Mercenari (tutti i prezzi sono per giorno)**: Servitore **(1-5g)**, Tedoforo **(5-10g)**,
+Guida **(10-20g)**, Soldato **(20-50g)**, Specialista **(50-100g)**, Mago **(100-200g)**.
 
 --------------------------------------------------------------------------------------
 

@@ -78,14 +78,14 @@ Tutti i PG cominciano al livello 1 e salgono di livello nel corso della campagna
 
 Quando un PG ha abbastanza XP, sale di livello. Una volta raggiunto il livello 7, il PG può ritirarsi e diventare un PNG. Il suo giocatore crea un nuovono PG di livello 1.
 
-| **Lvl** | **XP** | **Bonus** |
-| ------- | ------ | --------- |
-| 2       | 2      | +2 punti salute, +1 a un bonus di caratteristica |
+| **Lvl** | **XP** | **Bonus**                                                                                                     |
+| ------- | ------ | ------------------------------------------------------------------------------------------------------------- |
+| 2       | 2      | +2 punti salute, +1 a un bonus di caratteristica                                                              |
 | 3       | 6      | +2 punti salute. *Scegli uno*: bonus di attacco +1, guadagna un nuovo sentiero o ottieni uno slot incantesimo |
-| 4       | 12     | +2 punti salute, +1 a un bonus di caratteristica |
-| 5       | 20      | +2 punti salute. *Scegli uno*: bonus di attacco +1, guadagna un nuovo sentiero o ottieni uno slot incantesimo |
-| 6       | 30     | +2 punti salute, +1 a un bonus di caratteristica |
-| 5       | 42      | +2 punti salute. *Scegli uno*: bonus di attacco +1, guadagna un nuovo sentiero o ottieni uno slot incantesimo |
+| 4       | 12     | +2 punti salute, +1 a un bonus di caratteristica                                                              |
+| 5       | 20     | +2 punti salute. *Scegli uno*: bonus di attacco +1, guadagna un nuovo sentiero o ottieni uno slot incantesimo |
+| 6       | 30     | +2 punti salute, +1 a un bonus di caratteristica                                                              |
+| 5       | 42     | +2 punti salute. *Scegli uno*: bonus di attacco +1, guadagna un nuovo sentiero o ottieni uno slot incantesimo |
 
 ## Creazione del Personaggio
 
